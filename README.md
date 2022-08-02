@@ -1,6 +1,6 @@
 # meu_primeiro_app
 
-A new Flutter project.
+Projeto Flutter que consumi a Api do Projeto: https://github.com/AndreiaHoffman/Crud-ListaDeTarefas
 
 ## Getting Started
 
